@@ -1,6 +1,8 @@
 # SwiftApply Executable
 SwiftApply is a browser agent that applies to jobs for you.
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/fe263478-a82e-45a5-8d40-88aa56d4aeb1" width=300/>
+</p>
 ## 🛠️ Getting Started
 
 ### ✅ System Requirements
