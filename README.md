@@ -41,7 +41,7 @@ Fill in the **User Information** section:
 
 ### 🔹 Step 1b: Load from JSON (Optional)
 
-1. Click **"Show JSON Format Example"** to see the required structure.  
+1. Click **"Show JSON Format Example"** to see the required structure. Or see 'Sample_Info.json' in this repository.
 2. Create a JSON file with your information.  
 3. Use **"Browse"** to select the file.  
 4. Click **"Load Fields"** to auto-fill the form.
