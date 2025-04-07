@@ -55,7 +55,7 @@ Fill in the **User Information** section:
   - OpenAI models require **your own API key**  
 - **Model**: Select your preferred model  
   - Best results: `gemini-2.0-flash` or `gemini-1.5-pro`  
-- **API Key**: Required only for OpenAI or custom Gemini usage  
+- **API Key**: Required for both Gemini and OpenAI (I reached the usage cap on my Gemini key)  
 
 ---
 
