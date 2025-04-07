@@ -17,9 +17,9 @@ SwiftApply is a browser agent that applies to jobs for you.
 
 ### 💾 Installation
 
-1. Download the `SwiftApply.exe` file from the latest release.  
+1. Download the `SwiftApply.exe` file from the latest release. 
 2. Place it in a folder where you have write permission.  
-3. Double-click to run the application.  
+3. Double-click to run the application. Preferably, run as  administrator. 
 > No installation or setup is required – SwiftApply runs standalone.
 
 ---
