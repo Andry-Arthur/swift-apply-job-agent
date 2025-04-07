@@ -1,0 +1,10 @@
+{
+  "email": "yourname@example.com",
+  "password": "yourpassword",
+  "first_name": "John",
+  "last_name": "Doe",
+  "phone": "555-123-4567",
+  "linkedin": "https://www.linkedin.com/in/johndoe",
+  "portfolio": "https://johndoe.com",
+  "resume_path": "C:\\Users\\Username\\Documents\\resume.pdf"
+}
