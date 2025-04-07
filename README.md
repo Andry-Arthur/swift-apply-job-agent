@@ -127,7 +127,7 @@ SwiftApply will:
 ## 📣 Feedback and Support
 
 We welcome your feedback!  
-Please share your experience or report issues through our [feedback form]([#](https://docs.google.com/forms/d/e/1FAIpQLScygOlgWMp1CmraQMn3m-xi94DwyhA77uhGuYU4IoAO5X4Okw/viewform?usp=dialog)).
+Please share your experience or report issues through our [feedback form](https://docs.google.com/forms/d/e/1FAIpQLScygOlgWMp1CmraQMn3m-xi94DwyhA77uhGuYU4IoAO5X4Okw/viewform?usp=dialog).
 
 ---
 
